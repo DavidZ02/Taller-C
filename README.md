@@ -9,10 +9,10 @@ Parallel and Distributed Computing
 17/08/2022
 
 
+
 # Compilacion Y Ejecucion
 
-
-Si se quiere compilar las programas ejecute el siguiente comando en la consola :
+Si se quiere compilar los programas ejecute el siguiente comando en la consola :
 - gcc nombre_del_programa.c -o nombre_del_ejecutable
 
 Para compilar el programa ejecute el siguiente comando en la consola :
