@@ -10,7 +10,7 @@ Parallel and Distributed Computing
 
 
 
-# Compilacion Y Ejecucion
+# Compilación Y Ejecucin
 
 Si se quiere compilar los programas ejecute el siguiente comando en la consola :
 - gcc nombre_del_programa.c -o nombre_del_ejecutable
