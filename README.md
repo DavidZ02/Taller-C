@@ -9,6 +9,7 @@ Parallel and Distributed Computing
 17/08/2022
 
 
+# Compilacion Y Ejecucion
 
 
 Si se quiere compilar las programas ejecute el siguiente comando en la consola :
